@@ -1,0 +1,26 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi11210646/File-Metadata-Microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi11210646/File-Metadata-Microservice/issues"
+  },
+  "homepage": "https://github.com/abhi11210646/File-Metadata-Microservice#readme",
+  "dependencies": {
+    "body-parser": "1.16.1",
+    "express": "4.14.1",
+    "mongoose": "4.8.2",
+    "multer": "1.3.0"
+  }
+}
